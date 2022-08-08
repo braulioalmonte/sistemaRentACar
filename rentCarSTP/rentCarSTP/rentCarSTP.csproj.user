@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\clientesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\dashboardUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\empleadosUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\inspeccionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\marcasUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\modelosUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\rentaDevolucionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\TiposDeCombustibleUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\TiposDeVehiculosUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frondend\VehiculosUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
